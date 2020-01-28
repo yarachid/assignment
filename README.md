@@ -18,7 +18,7 @@
 
 ## REST API
 
-###Create a product
+### Create a product
 
 **URL** : `/v1/products`
 
@@ -40,7 +40,7 @@
 }
 ```
 
-###Get all product paged
+### Get all product paged
 
 **URL** : `v1/products?category=cloth&limit=3&page=0`
 
